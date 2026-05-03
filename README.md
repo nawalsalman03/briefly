@@ -5,6 +5,10 @@ A Flutter application that displays tech news from **two data sources**:
 2. **Gemini AI** - AI-curated summaries in Pakistani Roman Urdu
 
 Built with **BLoC Architecture** and Google's Generative AI API.
+## Group Members
+22k-4236
+22k-4460
+22k-4584
 
 ## 📱 Screenshots
 
