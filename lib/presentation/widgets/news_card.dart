@@ -19,20 +19,15 @@ class NewsCard extends StatelessWidget {
             Text(
               item.headline,
               style: Theme.of(context).textTheme.titleLarge?.copyWith(
-                    fontWeight: FontWeight.bold,
-                    color: Colors.white,
-                  ),
+                fontWeight: FontWeight.bold,
+                color: Colors.white,
+              ),
             ),
             const SizedBox(height: 8),
-            Text(
-              item.body,
-              style: Theme.of(context).textTheme.bodyMedium,
-            ),
+            Text(item.body, style: Theme.of(context).textTheme.bodyMedium),
           ],
         ),
       ),
     );
   }
 }
-
-
