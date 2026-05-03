@@ -17,5 +17,3 @@ Built with **BLoC Architecture** and Google's Generative AI API.
 *Shows tech news items fetched from REST API with refresh functionality*
 
 ### Gemini Summary Tab (AI)
-[Use your error screenshot or a working one]
-*AI-curated news summary in Pakistani Roman Urdu with retry button*
